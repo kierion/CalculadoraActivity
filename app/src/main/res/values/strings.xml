@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora Activity</string>
+    <string name="valor_botao_1">1</string>
+    <string name="valor_botao_2">2</string>
+    <string name="valor_botao_3">3</string>
+    <string name="valor_botao_4">4</string>
+    <string name="valor_botao_5">5</string>
+    <string name="valor_botao_6">6</string>
+    <string name="valor_botao_7">7</string>
+    <string name="valor_botao_8">8</string>
+    <string name="valor_botao_9">9</string>
+    <string name="valor_botao_0">0</string>
+    <string name="valor_botao_soma">+</string>
+    <string name="valor_botao_subtracao">-</string>
+    <string name="valor_botao_multiplicacao">x</string>
+    <string name="valor_botao_divisao">/</string>
+    <string name="valor_botao_resultado">=</string>
+    <string name="valor_botao_ponto">,</string>
+    <string name="valor_botao_trocador" translatable="false">"Desativar Activity  "</string>
+    <string name="resultado_activity_2" />
+    <string name="resultado_activity_1" />
+</resources>
